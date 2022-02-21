@@ -1,6 +1,6 @@
 # Werkzeug Debug-enabled RCE v0.0.1-beta
 This is a __python__ script for exploiting __werkzeug debug__ to achieve __RCE__.
-It can __read__ a particular file or __execute__ some command.
+It can __execute__ command on the remote system.
 
 ## Usage
 ```
@@ -18,6 +18,8 @@ WERKZEUG_DEBUG_PIN=off python3.10 mock_flask.py
 
 * Add PIN bruteforce
 * Add arg parser
+* Add read file functionality
+* Add reverse shell functionality
 
 ## Contributors
 
