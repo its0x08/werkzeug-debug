@@ -8,6 +8,7 @@ It can __execute__ command on the remote system.
 ```
 git clone https://github.com/its0x08/werkzeug-debug.git
 cd werkzeug-debug
+pip3 install --user -r requirements.txt
 python3 main.py example.com whoami
 ```
 
