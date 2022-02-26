@@ -16,7 +16,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip pylint
+        pip3.10 install --upgrade pylint
     - name: Analysing the code with pylint
       run: |
         find . -iname "*.py" -exec pylint {} +
