@@ -3,7 +3,7 @@ This is a __python__ script for exploiting __werkzeug debug__ to achieve __RCE__
 It can __execute__ command on the remote system.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits0x08%2Fwerkzeug-debug&countColor=%232ccce4&style=flat-square)
-
+[![Pylint](https://github.com/its0x08/werkzeug-debug/actions/workflows/pylint.yml/badge.svg)](https://github.com/its0x08/werkzeug-debug/actions/workflows/pylint.yml)
 ## Usage
 ```
 git clone https://github.com/its0x08/werkzeug-debug.git
