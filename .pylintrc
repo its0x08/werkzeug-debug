@@ -1,0 +1,3 @@
+[FORMAT]
+indent-string=\t
+disable=E0402,E0401
