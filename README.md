@@ -26,7 +26,7 @@ WERKZEUG_DEBUG_PIN=off python3.10 mock_flask.py
 
 ## Contributors
 
-If you decide to make a pull request to suggest your changes to the project, please dont forget to add your name to the CONTRIBUTING.md file.
+If you decide to make a pull request to suggest your changes to the project, please dont forget to add your name to the `CONTRIBUTING.md` file.
 
 ## Pull Requests & Issues
 You have a new feature in mind?
