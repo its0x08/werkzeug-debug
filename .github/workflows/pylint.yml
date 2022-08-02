@@ -17,6 +17,6 @@ jobs:
     - name: Install dependencies
       run: |
         pip3.10 install --upgrade pylint
-    - name: Analysing the code with pylint
+    - name: Analyzing the code with pylint
       run: |
         find . -iname "*.py" -exec pylint {} +
