@@ -33,8 +33,11 @@ If you decide to make a pull request to suggest your changes to the project, ple
 
 ## Pull Requests & Issues
 You have a new feature in mind?
+
 The code is buggy, wont run as expected and you happen to know __python__?
+
 Please make a __Pull Request (_PR_)__ suggesting you changes.
+
 Otherwise you can always open an __Issue__ to help imporve this project.
 
 ## Enjoy it !
