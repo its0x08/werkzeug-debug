@@ -1,4 +1,4 @@
-# Werkzeug Debug-enabled RCE v0.0.1-beta
+# Werkzeug Debug-enabled RCE v0.1.2-beta
 This is a __python__ script for exploiting __werkzeug debug__ to achieve __RCE__.
 It can __execute__ command on the remote system.
 
@@ -22,22 +22,19 @@ WERKZEUG_DEBUG_PIN=off python3.10 mock_flask.py
 ```
 ## TODO
 
-* Add PIN bruteforce
-* Add arg parser
-* Add read file functionality
-* Add reverse shell functionality
+- [ ] Add PIN bruteforce
+- [x]  Add arg parser
+- [ ]  Add read file functionality
+- [ ]  Add reverse shell functionality
 
 ## Contributors
 
-If you decide to make a pull request to suggest your changes to the project, please dont forget to add your name to the `CONTRIBUTING.md` file.
+If you decide to make a pull request to suggest your changes to the project, please don't forget to add your name to the `CONTRIBUTING.md` file.
 
 ## Pull Requests & Issues
 You have a new feature in mind?
-
 The code is buggy, wont run as expected and you happen to know __python__?
-
 Please make a __Pull Request (_PR_)__ suggesting you changes.
-
-Otherwise you can always open an __Issue__ to help imporve this project.
+Otherwise you can always open an __Issue__ to help improve this project.
 
 ## Enjoy it !
