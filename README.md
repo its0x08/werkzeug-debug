@@ -24,6 +24,8 @@ WERKZEUG_DEBUG_PIN=off python3.10 mock_flask.py
 
 - [ ] Add PIN bruteforce
 - [x] ~~Add arg parser~~
+- [x] ~~Add support for `clear` and `exit` commands~~
+- [ ] Add support for autocompletion
 - [ ] Add read file functionality
 - [ ] Add reverse shell functionality
 
