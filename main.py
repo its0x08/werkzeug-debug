@@ -8,7 +8,7 @@ from lib.werkzeug_rce import DebugRce
 
 if __name__ == '__main__':
 
-	parser = ArgumentParser()
+	parser = ArgumentParser(description='Werkzeug RCE tool by 0x08')
 	parser.add_argument('-t', '--host', type=str,
 						required=True, help='Target host to test')
 	parser.add_argument('-c', '--cmd', type=str, help='Cmd to inject')
